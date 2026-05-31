@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Mobile Lab icon">
+  <rect width="512" height="512" rx="112" fill="#111827"/>
+  <circle cx="256" cy="256" r="142" fill="#22d3ee" opacity="0.16"/>
+  <path d="M154 292c42 56 162 56 204 0" fill="none" stroke="#d8f3ff" stroke-width="32" stroke-linecap="round"/>
+  <circle cx="196" cy="214" r="26" fill="#d8f3ff"/>
+  <circle cx="316" cy="214" r="26" fill="#d8f3ff"/>
+  <path d="M256 116v-34" stroke="#67e8f9" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="256" cy="62" r="22" fill="#67e8f9"/>
+</svg>
