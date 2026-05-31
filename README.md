@@ -1,1 +1,1 @@
-﻿Static mobile test page.
+Static mobile test page.
